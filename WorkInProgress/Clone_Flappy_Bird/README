@@ -1,0 +1,16 @@
+Eae galera!
+
+Esse jogo foi desenvolvido na Unity tendo como base o jogo Flappy Bird.
+Nos scripts e no jogo foram trabalhados os seguintes aspectos:
+  -  Criação e posicionamento de cenário;
+  -  Criação de obstáculos infinitos que se originam no ponto X e viajam em direção ao jogador para dar a sensação de movimento e, posteriormente, ao saírem da tela são destruídos;
+  -  Criação do jogador e da sua movimentação, adicionando caixas de impacto (Rigidbody) e gravidade fazendo com que o jogador tenha que clicar para dar o impulso e desviar dos obstáculos;
+  -  Função de aceleração gradual da velocidade por meio de Time.timeScale, para dar mais dificuldade e dinâmica ao jogo;
+  -  Placar de pontuação que aumenta para cada obstáculo ultrapassado;
+  -  Canva e imagem de Game Over, assim como reinicialização do jogo com um simples clique na tela.
+Acredito que os pontos mais importantes estejam mencionados nesses itens.
+Todo o script é em C#, linguagem usada pela Unity.
+
+Jogo criado com base no curso de Unity2D da @Alura, com algumas adaptações feitas por mim.
+
+Um abraço! Bons estudos e até a próxima!
